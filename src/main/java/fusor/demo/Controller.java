@@ -8,7 +8,7 @@ public class Controller {
 
     @GetMapping("/api")
     public String buscarNombresUnicos() {
-        return "Hello word";
+        return "TE amo mami, porque no me crees";
     }
 
 }
